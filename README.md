@@ -6,7 +6,7 @@
 ## Written in GdScript
 Developed by [Jackson Goodman](http://github.com/jacksonrgoodman), based on [this video.](https://www.youtube.com/watch?v=Mc13Z2gboEk&ab_channel=GDQuest)
 
-[![Screenshot](https://i.ibb.co/xg3QZT9/Platformer-DEBUG-8-15-2021-9-52-58-PM.png)](#)
+[![Screenshot](https://i.ibb.co/YyTTPXn/platformer.gif)](#)
 ## Installation
 1. `git clone` this repository
 2. Open `project.godot` in Godot 3.2+
